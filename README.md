@@ -1,1 +1,1 @@
-Sample Guvava sbom 
+Sample sboms
